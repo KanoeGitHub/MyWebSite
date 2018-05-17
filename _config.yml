@@ -30,11 +30,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kanoe Studio
-subtitle: Subtitle
+title: KANOE STUDIO
+subtitle: kanoe official website
 description: Welcome to Kanoe Studio!
 author: Kanoe
-email: estancia.k_0493@oulook.jp
+email: 
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
