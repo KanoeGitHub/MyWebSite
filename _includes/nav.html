@@ -18,6 +18,10 @@
           <li><a href="#" id="{{- _slug -}}" class="active">
             <span class="icon {{ _icon }}">{{- _title -}}</span>
           </a></li>
+        {%- elsif _page.title == "blog" -%}
+          <li><a href="https://padawan.hatenablog.com/" id="{{- _slug -}}">
+          <span class="icon {{ _icon }}">{{- _title -}}</span>
+          </a></li>
         {%- elsif _page.url -%}
           <li><a href="{{- _page.url | absolute_url -}}" id="{{- _slug -}}-link">
             <span class="icon {{ _icon }}">{{- _title -}}</span>
