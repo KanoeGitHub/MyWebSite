@@ -6,6 +6,8 @@ icon: fa-lightbulb-o
 ---
 # ホームページ作成
 
+___
+
 Jekyllを使用してホームページを作り直しました。  
 使用したThemeは "[prologue](https://github.com/chrisbobbe/jekyll-theme-prologue)"  です。
 
